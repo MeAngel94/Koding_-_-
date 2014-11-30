@@ -1,0 +1,111 @@
+html{
+	font-family: calibri, tahoma, verdana, arial, helvetica, sans-serif;
+	font-size:16;
+	margin:2% 5%;
+	color:green;
+}
+
+#menu ul a:link{
+	color:green;
+	text-decoration:none;
+}
+
+#menu ul a:visited{
+	color:green;
+	text-decoration:none;
+}
+
+#menu ul a:hover{
+	color:chartreuse;
+	font-size:18;
+	font-style:bold;
+	text-decoration:none;
+}
+
+#header{
+	background:url(korea12ipb-hp.png) no-repeat center;
+	height:35%;
+}
+#menu{
+	width:15%;
+	height:60%;
+	float:left;
+	padding:20px 0px 0px 0px;
+}
+
+#menu h3{
+	color:chartreuse;
+	background-color:green;
+}
+
+#konten{
+	width:62%;
+	height:60%;
+	float:left;
+	padding:20px 0px 0px 25px;
+	border-bottom:2px solid green;
+	margin:auto;
+	border-radius:10;
+	}
+
+#konten a{
+	text-align:right;
+	color:green;
+}
+
+#konten #gambar a {
+	text-decoration:none;
+	text-align:right;
+}
+
+#konten a:hover{	
+	color:chartreuse;
+	font-size:18;
+	font-style:bold;
+	text-decoration:none;
+}
+
+#konten p{
+	text-align:justify;
+}
+
+#konten img{
+	width:150px;
+	height:100px;
+}
+
+#konten h3{
+	font:normal 16 calibri;
+}
+
+#konten #lahan{
+	border:3px groove green;
+	width:80%;
+}
+
+#konten #lahan td{
+	border:3px groove green;
+	padding:3px;
+}
+
+#konten  #lahan th{
+	text-align:center;
+	border:3px groove green;
+	padding:3px;
+}
+
+#form{
+	width:15%;
+	height:60%;
+	float:right;
+	padding:20px 0px 0px 0px;
+}
+
+#footer{
+	border-radius:10;
+	text-align:center;
+	border-bottom:2px solid black;
+	clear:both;
+	padding:5px 0px 10px 0px;
+	font:bold 16 calibri;
+}
